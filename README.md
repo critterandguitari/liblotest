@@ -5,3 +5,4 @@ compile with
 
 gcc -o sender sender.c -llo
 gcc -o reciever reciever.c -llo
+g++ -o testcpp test.cpp -llo
